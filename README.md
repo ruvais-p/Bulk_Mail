@@ -61,13 +61,13 @@ The script is designed to send emails in batches (default is 10 emails per batch
 
 You can format the body of the email using HTML and CSS tags for better styling.
 
-###Important Notes
+Important Notes
 
 Gmail's SMTP server has limits for sending emails, especially if sending in bulk. Be sure to follow Gmail's sending limits (500 emails/day for free accounts) to avoid temporary suspension.
 Ensure that you are not spamming recipients and that they have agreed to receive emails from you.
 You might need to adjust your Gmail security settings to allow access for less secure apps.
 
-###Future Improvements
+Future Improvements
 
 Support for other email providers such as Outlook or Yahoo.
 Ability to send personalized email content to each recipient.
